@@ -5,7 +5,7 @@ An accessible color contrast checker script for InDesign.
 
 ## Installation
 
-Download to your InDesign Scripts folder. 
+Download to your InDesign Scripts folder. (Download by clicking 'Code' and 'Download Zip' at the top of the page.)
 
 ```
 C:\Users\[YOUR USERNAME]\AppData\Roaming\Adobe\InDesign\[YOUR INDESIGN VERSION]\en_US\Scripts\Scripts Panel
