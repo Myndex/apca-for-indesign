@@ -5,7 +5,9 @@ An accessible color contrast checker script for InDesign.
 
 ## Installation
 
-Download the Zip file, and place the .jsx file into your InDesign Scripts folder. (Download by clicking 'Code' and 'Download Zip' at the top of the page.)
+Download the Zip file, and place the .jsx file into your InDesign Scripts folder. (Download by clicking 'Code', then 'Download Zip' at the top of this page.)
+
+The file path for your scripts folder is:
 
 ```
 C:\Users\[YOUR USERNAME]\AppData\Roaming\Adobe\InDesign\[YOUR INDESIGN VERSION]\en_US\Scripts\Scripts Panel
