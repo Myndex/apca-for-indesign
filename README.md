@@ -1,5 +1,7 @@
 # InDesign Color Contrast Checker
 
+Fork is for developing this into an APCA tool
+
 An accessible color contrast checker script for InDesign.
 
 
